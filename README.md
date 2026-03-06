@@ -4,8 +4,9 @@
 
 
 </div>
-### Hi there 👋  
-### Welcome to my GitHub!
+## Hi there 👋  
+## Welcome to my GitHub!
+
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryukangin)](https://solved.ac/profile/ryukangin)
