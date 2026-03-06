@@ -38,28 +38,12 @@
 
 ---
 
-## 🚀 Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Artrip-docent\&repo=artrip-backend)](https://github.com/Artrip-docent/artrip-backend)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Artrip-docent\&repo=artrip-frontend)](https://github.com/Artrip-docent/artrip-frontend)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2024-WinterBootcamp-Team-E\&repo=backend)](https://github.com/2024-WinterBootcamp-Team-E/backend)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2024-WinterBootcamp-Team-E\&repo=frontend)](https://github.com/2024-WinterBootcamp-Team-E/frontend)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RyuKangIn&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RyuKangIn&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuKangIn&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuKangIn&layout=compact&theme=tokyonight"/>
 
 </div>
