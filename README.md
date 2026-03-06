@@ -4,8 +4,14 @@
 
 
 </div>
+
+<div align="center">
+  
 ## Hi there 👋  
 ## Welcome to my GitHub!
+  
+</div>
+
 
 <div align="center">
 
@@ -41,16 +47,5 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
-
-</div>
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RyuKangIn&show_icons=true&theme=tokyonight"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyuKangIn&layout=compact&theme=tokyonight"/>
 
 </div>
