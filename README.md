@@ -1,13 +1,12 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=220&section=header&text=RyuKangIn%20Github&fontSize=45&fontColor=ffffff&desc=Software%20Developer&descSize=18&descAlignY=65"/>
+### Hi there 👋  
+### Welcome to my GitHub!
 
 </div>
 
 <div align="center">
-
-## RyuKangIn
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryukangin)](https://solved.ac/profile/ryukangin)
 
